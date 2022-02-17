@@ -3,9 +3,9 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Online Courses # Website name
-baseurl: '' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
+title: NCI DCEG Workshops # Website name
+baseurl: 'https://dceg-workshops.github.io/' # Website URL
+copyright: '© {2022} Division of Cancer Epidemiology and Genetics, National Cancer Institute ' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
