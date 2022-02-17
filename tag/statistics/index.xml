@@ -17,4 +17,23 @@ The variance of the distribution is $\sigma^{2}$.
 &lt;details class="spoiler " id="spoiler-2">
 &lt;summary>What is the parameter $\mu$?&lt;/summary>
 &lt;p>The parameter $\mu$ is the mean or expectation of the distribution.&lt;/p>
+&lt;/details></description></item><item><title>Statistics</title><link>https://dceg-workshops.github.io/course/fair-workshop/stats/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://dceg-workshops.github.io/course/fair-workshop/stats/</guid><description>&lt;p>Introduction to statistics for data science.&lt;/p>
+&lt;p>
+&lt;i class="fas fa-clock pr-1 fa-fw">&lt;/i> 1-2 hours per week, for 8 weeks&lt;/p>
+&lt;h2 id="learn">Learn&lt;/h2>
+&lt;p>The general form of the &lt;strong>normal&lt;/strong> probability density function is:&lt;/p>
+&lt;p>$$
+f(x) = \frac{1}{\sigma \sqrt{2\pi} } e^{-\frac{1}{2}\left(\frac{x-\mu}{\sigma}\right)^2}
+$$&lt;/p>
+&lt;div class="alert alert-note">
+&lt;div>
+The parameter $\mu$ is the mean or expectation of the distribution.
+$\sigma$ is its standard deviation.
+The variance of the distribution is $\sigma^{2}$.
+&lt;/div>
+&lt;/div>
+&lt;h2 id="quiz">Quiz&lt;/h2>
+&lt;details class="spoiler " id="spoiler-2">
+&lt;summary>What is the parameter $\mu$?&lt;/summary>
+&lt;p>The parameter $\mu$ is the mean or expectation of the distribution.&lt;/p>
 &lt;/details></description></item></channel></rss>

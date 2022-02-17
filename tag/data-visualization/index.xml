@@ -18,4 +18,24 @@ fig = px.bar(data_canada, x='year', y='pop')
 fig.show()
 &lt;/code>&lt;/pre>
 &lt;/p>
+&lt;/details></description></item><item><title>Visualization</title><link>https://dceg-workshops.github.io/course/fair-workshop/visualization/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://dceg-workshops.github.io/course/fair-workshop/visualization/</guid><description>&lt;p>Learn how to visualize data with Plotly.&lt;/p>
+&lt;p>
+&lt;i class="fas fa-clock pr-1 fa-fw">&lt;/i> 1-2 hours per week, for 8 weeks&lt;/p>
+&lt;h2 id="learn">Learn&lt;/h2>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/hSPmj7mK6ng" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+&lt;h2 id="quiz">Quiz&lt;/h2>
+&lt;details class="spoiler " id="spoiler-2">
+&lt;summary>When is a heatmap useful?&lt;/summary>
+&lt;p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.&lt;/p>
+&lt;/details>
+&lt;details class="spoiler " id="spoiler-3">
+&lt;summary>Write Plotly code to render a bar chart&lt;/summary>
+&lt;p>&lt;pre>&lt;code class="language-python">import plotly.express as px
+data_canada = px.data.gapminder().query(&amp;quot;country == 'Canada'&amp;quot;)
+fig = px.bar(data_canada, x='year', y='pop')
+fig.show()
+&lt;/code>&lt;/pre>
+&lt;/p>
 &lt;/details></description></item></channel></rss>
