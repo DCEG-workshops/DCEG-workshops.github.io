@@ -1,5 +1,5 @@
 ---
-title: Latest News
+title: Members' posts
 
 # View.
 #   1 = List
@@ -12,3 +12,5 @@ header:
   caption: ""
   image: ""
 ---
+
+This is where our members share their articles, FAQs and resources  

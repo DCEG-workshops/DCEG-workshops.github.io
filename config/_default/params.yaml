@@ -20,13 +20,13 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
-appointment_url: 'https://calendly.com'
+#email: test@example.org
+#appointment_url: 'https://calendly.com'
 contact_links:
   - icon: comments
     icon_pack: fas
     name: Discuss on the forum
-    link: 'https://github.com/wowchemy/wowchemy-hugo-modules/discussions'
+    link: 'https://github.com/DCEG-workshops/DCEG-workshops.github.io/discussions'
 
 # Site header
 

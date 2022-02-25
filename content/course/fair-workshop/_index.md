@@ -1,8 +1,8 @@
 ---
-title: 📊 Learn Data Science
-linkTitle: Data Science
-summary: An example of using Wowchemy's Book layout for publishing online courses.
-date: '2021-01-24'
+title: 📊 FAIR Principles
+linkTitle: FAIR Principles
+summary: A series of workshops on FAIR Principles
+date: '2021-04-10'
 type: book
 ---
 
@@ -12,30 +12,33 @@ type: book
 
 ## What you will learn
 
-- Fundamental {{<hl>}}Python programming skills{{</hl>}}
-- {{<hl>}}Statistical concepts{{</hl>}} and how to apply them in practice
-- Gain experience with the {{<hl>}}Scikit{{</hl>}}, including data visualization with {{<hl>}}Plotly{{</hl>}} and data wrangling with {{<hl>}}Pandas{{</hl>}}
+- Why {{<hl>}}FAIR Principles{{</hl>}} are important for epidemiology research
+- How to use R with Box for {{<hl>}}collaborative and reproducible research{{</hl>}} 
+- How to use GitHub for {{<hl>}}ollaborative and reproducible research{{</hl>}}
 
-## Program overview
+## Workshop overview
 
-The demand for skilled data science practitioners is rapidly growing. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi.
+Learn about moving data and code for analyses to the Cloud to improve FAIRness using Box and GitHub.:-Store data and meta-data in Box: SSO authentication/authorization, version control, file usage statistics, govern access to data by collaborators-Accessing your data and meta-data for statistical analyses from your analytical environment: use R, SAS, STATA, or Python and run analyses in your own computer or Biowulf-Share your analyses code using GitHub: easily share code and access code from others, maintain versioning using different branches, how to have multiple analysts working on the same project at the same time. 
 
-## Courses in this program
+## Courses in this workshop
 
 {{< list_children >}}
 
 ## Meet your instructor
 
-{{< mention "admin" >}}
+{{< mention "tom" >}} 
+<br>
+{{< mention "amber" >}} 
+<br>
+{{< mention "jeya" >}} 
+<br>
+{{< mention "nicole" >}}
 
 ## FAQs
 
 {{< spoiler text="Are there prerequisites?" >}}
-There are no prerequisites for the first course.
+- For the first workshop, you need to obtain an NIH box account
+- For the GitHub workshop, you need to go to [github.com](https://github.com/) to register for an account
 {{< /spoiler >}}
 
-{{< spoiler text="How often do the courses run?" >}}
-Continuously, at your own pace.
-{{< /spoiler >}}
 
-{{< cta cta_text="Begin the course" cta_link="python" >}}

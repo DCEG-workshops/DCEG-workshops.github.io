@@ -7,7 +7,7 @@ main:
   - name: Home
     url: '/'
     weight: 10
-  - name: Courses
+  - name: Workshops
     url: '/course'
     weight: 20
     identifier: courses
@@ -15,9 +15,6 @@ main:
     url: '/course/fair-workshop/'
     weight: 10
     parent: courses
-  - name: Blog
+  - name: Posts
     url: '/post'
     weight: 30
-  - name: Contact
-    url: '/contact'
-    weight: 60

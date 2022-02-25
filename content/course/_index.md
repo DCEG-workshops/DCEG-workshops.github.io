@@ -1,5 +1,5 @@
 ---
-title: 📚 Courses
+title: 📚 Workshops
 type: page
 
 header:
@@ -7,4 +7,4 @@ header:
   image: ""
 ---
 
-Explore our courses below and expand your knowledge!
+Explore our workshops below and expand your knowledge!
