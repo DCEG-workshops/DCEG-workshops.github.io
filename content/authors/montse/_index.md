@@ -28,7 +28,7 @@ bio: Dr. Montserrat García-Closas received her M.D. from the University of Barc
 social:
 - icon: github
   icon_pack: fab
-  link: https://github.com/?
+  link: https://github.com/mgarciaclosas
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
