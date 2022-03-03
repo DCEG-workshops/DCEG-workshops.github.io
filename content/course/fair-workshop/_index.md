@@ -6,7 +6,7 @@ date: '2021-04-10'
 type: book
 ---
 
-{{< figure src="featured.jpg" >}}
+{{< figure src="fair_wordcloud.jpg" >}}
 
 {{< toc hide_on="xl" >}}
 
