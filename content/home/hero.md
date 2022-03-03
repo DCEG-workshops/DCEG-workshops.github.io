@@ -3,7 +3,7 @@ widget: hero
 headless: true
 weight: 10
 title: Welcome to DCEG workshops
-hero_media: student.svg
+hero_media: dceg_workshop_Logo.svg
 design:
   background:
     gradient_angle: 0
@@ -20,8 +20,8 @@ cta_alt:
   label:
 cta_note:
   label:
-advanced:
-  css_class: fullscreen
+#advanced:
+#  css_class: fullscreen
 ---
 <br>
 
