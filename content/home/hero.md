@@ -20,6 +20,16 @@ cta_alt:
   label:
 cta_note:
   label:
+cta:
+  url: course/
+  label: Explore our workshops
+  icon_pack: fas
+  icon: user-graduate
+cta_alt:
+  url:
+  label:
+cta_note:
+  label:  
 #advanced:
 #  css_class: fullscreen
 ---
