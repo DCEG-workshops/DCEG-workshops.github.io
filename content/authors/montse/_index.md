@@ -26,6 +26,9 @@ bio: Dr. Montserrat García-Closas received her M.D. from the University of Barc
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+- icon: link
+  icon_pack: fas
+  link: https://dceg.cancer.gov/about/staff-directory/garcia-closas-montserrat
 - icon: github
   icon_pack: fab
   link: https://github.com/mgarciaclosas
@@ -40,4 +43,5 @@ user_groups:
 - Teachers
 ---
 
-[https://dceg.cancer.gov/about/staff-directory/garcia-closas-montserrat](https://dceg.cancer.gov/about/staff-directory/garcia-closas-montserrat)
+#[https://dceg.cancer.gov/about/staff-directory/garcia-closas-montserrat](https://dceg.cancer.gov/about/staff-directory/garcia-closas-montserrat)
+<iframe src="https://dceg.cancer.gov/about/staff-directory/garcia-closas-montserrat"></iframe>

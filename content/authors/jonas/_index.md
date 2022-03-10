@@ -26,6 +26,9 @@ bio: bio
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+- icon: link
+  icon_pack: fas
+  link: https://dceg.cancer.gov/about/staff-directory/almeida-jonas
 - icon: github
   icon_pack: fab
   link: https://github.com/jonasalmeida 
