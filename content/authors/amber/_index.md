@@ -27,7 +27,7 @@ bio: bio
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
 - icon: browser
-  icon_pack: fas
+  icon_pack: far
   link: https://dceg.cancer.gov/fellowship-training/fellowship-experience/meet-fellows/tdrp/hurson-amber
 - icon: github
   icon_pack: fab
