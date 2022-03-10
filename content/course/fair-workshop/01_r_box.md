@@ -6,7 +6,9 @@ weight: 20
 ---
 
 Using R with Box
+<BR>
 Date: April 20, 2022 
+<BR>
 Instructors: 
 {{< mention "tom" >}}
 <br>
