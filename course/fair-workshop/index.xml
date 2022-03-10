@@ -1,15 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>📊 FAIR Principles | NCI DCEG Workshops</title><link>https://dceg-workshops.github.io/course/fair-workshop/</link><atom:link href="https://dceg-workshops.github.io/course/fair-workshop/index.xml" rel="self" type="application/rss+xml"/><description>📊 FAIR Principles</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© {2022} Division of Cancer Epidemiology and Genetics, National Cancer Institute</copyright><lastBuildDate>Sat, 10 Apr 2021 00:00:00 +0000</lastBuildDate><image><url>https://dceg-workshops.github.io/course/fair-workshop/featured.jpg</url><title>📊 FAIR Principles</title><link>https://dceg-workshops.github.io/course/fair-workshop/</link></image><item><title>Using R with Box</title><link>https://dceg-workshops.github.io/course/fair-workshop/01_r_box/</link><pubDate>Tue, 04 Jan 2022 00:00:00 +0000</pubDate><guid>https://dceg-workshops.github.io/course/fair-workshop/01_r_box/</guid><description>&lt;p>Using R with Box&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>📊 FAIR Principles | NCI DCEG Workshops</title><link>https://dceg-workshops.github.io/course/fair-workshop/</link><atom:link href="https://dceg-workshops.github.io/course/fair-workshop/index.xml" rel="self" type="application/rss+xml"/><description>📊 FAIR Principles</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© {2022} Division of Cancer Epidemiology and Genetics, National Cancer Institute</copyright><lastBuildDate>Sat, 10 Apr 2021 00:00:00 +0000</lastBuildDate><image><url>https://dceg-workshops.github.io/course/fair-workshop/featured.jpg</url><title>📊 FAIR Principles</title><link>https://dceg-workshops.github.io/course/fair-workshop/</link></image><item><title>Using GitHub</title><link>https://dceg-workshops.github.io/course/fair-workshop/02_github/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dceg-workshops.github.io/course/fair-workshop/02_github/</guid><description>&lt;p>Build a foundation in Python.&lt;/p>
+&lt;h2 id="learn">Learn&lt;/h2>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/In0ytEnDqKk" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div></description></item><item><title>Using R with Box</title><link>https://dceg-workshops.github.io/course/fair-workshop/01_r_box/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dceg-workshops.github.io/course/fair-workshop/01_r_box/</guid><description>&lt;p>Using R with Box
+Date: April 20, 2022
+Instructors:
+&lt;a href="https://dceg-workshops.github.io/authors/tom/">Thomas Ahearn&lt;/a>
+&lt;br>
+&lt;a href="https://dceg-workshops.github.io/authors/amber/">Amber Hurson&lt;/a>
+&lt;br>&lt;/p>
 &lt;h2 id="learn">Learn&lt;/h2>
 &lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
 &lt;iframe src="https://www.youtube.com/embed/Hbwq6GDlYto" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
 &lt;/div>
-&lt;details class="spoiler " id="spoiler-1">
+&lt;details class="spoiler " id="spoiler-3">
 &lt;summary>Can you read an older version of the data from Box using R?&lt;/summary>
 &lt;p>Yes&lt;/p>
-&lt;/details></description></item><item><title>Using GitHub</title><link>https://dceg-workshops.github.io/course/fair-workshop/02_github/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dceg-workshops.github.io/course/fair-workshop/02_github/</guid><description>&lt;p>Build a foundation in Python.&lt;/p>
-&lt;h2 id="learn">Learn&lt;/h2>
-&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-&lt;iframe src="https://www.youtube.com/embed/In0ytEnDqKk" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
-&lt;/div></description></item><item><title>Data Harmonization</title><link>https://dceg-workshops.github.io/course/fair-workshop/03_data_harmonizations/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>https://dceg-workshops.github.io/course/fair-workshop/03_data_harmonizations/</guid><description>&lt;p>Learn about data harmonization&lt;/p>
+&lt;/details></description></item><item><title>Data Harmonization</title><link>https://dceg-workshops.github.io/course/fair-workshop/03_data_harmonizations/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>https://dceg-workshops.github.io/course/fair-workshop/03_data_harmonizations/</guid><description>&lt;p>Learn about data harmonization&lt;/p>
 &lt;h2 id="learn">Learn&lt;/h2>
 &lt;p>???&lt;/p></description></item></channel></rss>
