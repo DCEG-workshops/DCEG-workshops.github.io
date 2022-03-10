@@ -1,11 +1,17 @@
 ---
 title: Using R with Box
-date: '2022-01-04'
+date: '2022-20-04'
 type: book
 weight: 20
 ---
 
 Using R with Box
+Date: April 20, 2022 
+Instructors: 
+{{< mention "tom" >}}
+<br>
+{{< mention "amber" >}}
+<br>
 
 <!--more-->
 
