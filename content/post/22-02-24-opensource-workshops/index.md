@@ -9,3 +9,4 @@ Here's a list of other workshops/courses available
 
 - [Data Carpentry Genomics Workshop](https://datacarpentry.org/genomics-workshop/)
 - [Intro to Reproducibility in Cancer Informatics](https://jhudatascience.org/Reproducibility_in_Cancer_Informatics/index.html)
+- [Bioinformatics Training and Education Program](https://btep.ccr.cancer.gov/)
