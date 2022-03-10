@@ -43,5 +43,3 @@ user_groups:
 - Teachers
 ---
 
-#[https://dceg.cancer.gov/about/staff-directory/garcia-closas-montserrat](https://dceg.cancer.gov/about/staff-directory/garcia-closas-montserrat)
-<iframe src="https://dceg.cancer.gov/about/staff-directory/garcia-closas-montserrat"></iframe>
