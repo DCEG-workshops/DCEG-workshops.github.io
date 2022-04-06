@@ -32,5 +32,8 @@ The Trans-Divisional Research Program FAIR workshop will provide DCEG researcher
 - For the GitHub workshop, you need to go to [github.com](https://github.com/) to register for an account
 - Read [Moving towards FAIR practices in epidemiological research](https://jonasalmeida.github.io/preprints/Montserrat_Garcia-Closas_2022_Moving_Towards_FAIR_preprint.pdf) by Garcia-Closas et al. 
 
+## FAIR gitter 
+
+[FAIR gitter channel](https://gitter.im/episphere/Fair) 
 
 
