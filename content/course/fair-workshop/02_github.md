@@ -1,16 +1,21 @@
 ---
 title: Using GitHub
-date: '2022-21-05'
+date: '2022-01-01'
 type: book
-weight: 20
+weight: 2
 ---
 
-Build a foundation in Python.
+Date: To be announced
+<BR>
+
+
+
 
 <!--more-->
 
+Instructors: 
+{{< mention "jeya" >}}
 
-## Learn
 
-{{< youtube In0ytEnDqKk >}}
+
 

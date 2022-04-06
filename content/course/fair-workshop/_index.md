@@ -1,12 +1,12 @@
 ---
-title: 📊 FAIR Principles
+title: 📊 FAIR Principles for Data Stewardship 
 linkTitle: FAIR Principles
 summary: A series of workshops on FAIR Principles
 date: '2021-04-10'
 type: book
 ---
 
-{{< figure src="fair_wordcloud.jpg" >}}
+{{< figure src="FAIR_Principles_logo.jpg" >}}
 
 {{< toc hide_on="xl" >}}
 
@@ -18,27 +18,18 @@ type: book
 
 ## Workshop overview
 
-Learn about moving data and code for analyses to the Cloud to improve FAIRness using Box and GitHub.:-Store data and meta-data in Box: SSO authentication/authorization, version control, file usage statistics, govern access to data by collaborators-Accessing your data and meta-data for statistical analyses from your analytical environment: use R, SAS, STATA, or Python and run analyses in your own computer or Biowulf-Share your analyses code using GitHub: easily share code and access code from others, maintain versioning using different branches, how to have multiple analysts working on the same project at the same time. 
+This workshop will provide researchers with practical steps for and hands-on experience with how to implement FAIR research practices. 
+
 
 ## Courses in this workshop
 
 {{< list_children >}}
 
-## Meet your instructor
 
-{{< mention "tom" >}} 
-<br>
-{{< mention "amber" >}} 
-<br>
-{{< mention "jeya" >}} 
-<br>
-{{< mention "nicole" >}}
+## Prerequisites
 
-## FAQs
-
-{{< spoiler text="Are there prerequisites?" >}}
-- For the first workshop, you need to obtain an NIH box account
+- Workshop participation requires an active Box account. Participants without an active Box account will be connected with CBIIT for account activation. 
 - For the GitHub workshop, you need to go to [github.com](https://github.com/) to register for an account
-{{< /spoiler >}}
+
 
 
