@@ -30,5 +30,7 @@ We will also teach attendees how to control access to their data stored in Box.
  
 This is the first in a series of hands-on workshops for teaching and promoting FAIR research practices. Topics of future workshops include Using GitHub and Data Harmonization. 
 
-![](/boxworkshop_patterns.jpg)
+## Lecture recording from our workshop on April 20, 2022
+
+{{< youtube DhxL-FWLbO8 >}}
 
