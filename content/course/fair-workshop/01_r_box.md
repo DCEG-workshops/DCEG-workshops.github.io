@@ -5,7 +5,7 @@ type: book
 weight: 1
 ---
 
-Date: April 20, 2022 
+Date: April 20, 2022 and July 20, 2022
 <BR>
 
 
@@ -33,4 +33,10 @@ This is the first in a series of hands-on workshops for teaching and promoting F
 ## Lecture recording from our workshop on April 20, 2022
 
 {{< youtube DhxL-FWLbO8 >}}
+  
+## FAQs
+
+{{< spoiler text="Can I use boxr to connect to box on a Biowulf compute node?" >}}
+Yes!
+{{< /spoiler >}}  
 
