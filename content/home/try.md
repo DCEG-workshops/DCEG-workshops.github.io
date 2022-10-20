@@ -1,5 +1,5 @@
 ---
-title: Interested in contributing?  
+title: Would you be interested in contributing?  
 subtitle:
 widget: blank
 weight: 50
